@@ -11,7 +11,7 @@ var budgeCenter = 0;
 var mainFlash;
 var sceneLength = 30;
 
-var starterText = "THE\nPLUSH\nSTORE";
+var starterText = "THE\nPLUSH\nSLIK";
 // var starterText = "الحركة\nبركة";
 
 var rampCounter = 0;
